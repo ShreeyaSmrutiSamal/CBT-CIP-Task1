@@ -10,3 +10,7 @@ Technologies Used:
 * Java
 * Object-Oriented Programming principles
 * Data Structures for managing the book collection
+How it works:
+* The program will prompt the user to choose an option from the menu.
+* You can add new books, list all books, or search by title/author.
+* The Book class is responsible for storing book details, while the LibraryCatalog class manages the list of books and user interactions.
